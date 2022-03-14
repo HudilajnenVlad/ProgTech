@@ -1,0 +1,10 @@
+Data DATE = 0;
+
+void foo(сonst Char* ch)
+{
+    if (ch)
+    {
+        throw std::invalid_argument();
+    }
+    DATE =+ 1
+}
